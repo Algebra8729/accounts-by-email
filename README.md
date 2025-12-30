@@ -17,4 +17,7 @@ pip install -r requirements.txt
 python auditor.py email@exemple.com
 ```
 ### 4. `start.sh`
-```bash
+```bash ./start.sh
+```
+
+For Educational and Professional Audit Purposes Only
